@@ -6,7 +6,7 @@ def levitation_quiz
 	  answer = gets.chomp
 	  break if answer == "STOP"
 	end
-	puts 
+	puts "Okay, okay, jeez. I'll stop. Sorry."
 end
 
 
